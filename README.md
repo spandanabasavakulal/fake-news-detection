@@ -18,3 +18,7 @@ This is a machine learning web application that detects whether a news article i
 ```bash
 pip install -r requirements.txt
 streamlit run fake_news_app.py
+
+
+## 🌐 Live Demo
+🔗 [Click here to try the app](https://fake-news-detection-jdjxgbje5rdmdue9ejzeyf.streamlit.app/)
