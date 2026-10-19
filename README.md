@@ -21,4 +21,4 @@ streamlit run fake_news_app.py
 
 
 ## Live Demo
-🔗 Click here to try the app - [https://fake-news-detection-jdjxgbje5rdmdue9ejzeyf.streamlit.app]
+🔗 Click here to try the app - [https://fake-news-detection-jdjxgbje5rdmdue9ejzeyf.streamlit.app/]
